@@ -1,12 +1,5 @@
 
 
-【金山文档】 申请Freenom域名的正确做法 https://kdocs.cn/l/cmqB5kYnODzN
-
-【金山文档】 CloudFlare Workers 被墙解决方案 https://kdocs.cn/l/cp7ppdbff6Yw
-
-【金山文档】 Heroku搭建教程 https://kdocs.cn/l/cuGOXoYA2DwO
-
-讨论群组 https://t.me/herokuvless
 
 ## v2ray-heroku
 
