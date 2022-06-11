@@ -1,0 +1,18 @@
+{
+    "name": "hkvru",
+    "description": "xfrznPowered By Misaka-blog",
+    "keywords": [],
+    "yhdes": {
+        "TYPE": {
+            "description": "协议，小写的vmess或vless",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
+            "value": ""
+        }
+    },
+    "website": "https://github.com/ncksoiesieoik/Hpxvr2",
+    "repository": "https://github.com/ncksoiesieoik/Hpxvr2",
+    "stack": "container"
+}
